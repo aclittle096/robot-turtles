@@ -3,7 +3,7 @@
 
 # Launching the game
 - In the main directory, make sure the game is compiled with `javac Main.java`
-- Then, run the game with `java main`
+- Then, run the game with `java Main`
 
 # Team
 - [Alexander Little](https://github.com/aclittle096)
