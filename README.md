@@ -1,5 +1,5 @@
 # Robot Turtles
-- A CLI-based version of [Robot Turtles](http://www.robotturtles.com/), a popular game designed to help people learn the basics of programming.
+- A CLI-based, MVC-adhered version of [Robot Turtles](http://www.robotturtles.com/), a popular game designed to help people learn the basics of programming.
 
 # Launching the game
 - In the main directory, make sure the game is compiled with `javac Main.java`
